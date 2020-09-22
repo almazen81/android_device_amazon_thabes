@@ -1,2 +1,1 @@
-# android_device_amazon_thabes
-twrp-thabes
+# device_amazon_thabes
